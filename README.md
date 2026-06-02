@@ -1,6 +1,6 @@
 ## Hi there 🤘
 
-My name is Angélica Flausino Brazil  (🇧🇷), I'm 35 years old. I have a degree in System Analysis and Development from Universidade Paulista - UNIP.
+My name is Angélica Flausino Brazil  (🇧🇷), I'm 37 years old. I have a degree in System Analysis and Development from Universidade Paulista - UNIP.
 
 I've been working as Developer since 2012 and currently I'm Senior Software Developer at [actdigital](https://actdigital.com/) working on projects in the technology laboratory of the company [Vale S/A](https://www.vale.com/)
 
