@@ -44,6 +44,12 @@ Over these 14 years I specialized in the .NET platform with the C# language to b
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&logoWidth=30&&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&logoWidth=30&&style=for-the-badge)
 
+### Cloud Computing
+
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white&logoWidth=30&&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&logoWidth=30&&style=for-the-badge)
+![Terraform](https://img.shields.io/badge/-Terraform-4040B2?logo=terraform&logoColor=white&logoWidth=30&&style=for-the-badge)
+
 ### Database
 
 ![SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white&logoWidth=30&&style=for-the-badge)
@@ -72,11 +78,6 @@ Over these 14 years I specialized in the .NET platform with the C# language to b
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?logo=ionic&logoColor=white&logoWidth=30&&style=for-the-badge)
 ![Cordova](https://img.shields.io/badge/-Cordova-E8E8E8?logo=apachecordova&logoColor=white&logoWidth=30&&style=for-the-badge)
 ![Xamarin](https://img.shields.io/badge/-Xamarin-3498DB?logo=xamarin&logoColor=white&logoWidth=30&&style=for-the-badge)
-
-### Cloud Computing
-
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white&logoWidth=30&&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&logoWidth=30&&style=for-the-badge)
 
 ### DevOps
 
