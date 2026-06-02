@@ -6,7 +6,7 @@ I've been working as Developer since 2012 and currently I'm Senior Software Deve
 
 ## 🚀 Expertise
 
-Over these 11 years I specialized in the .NET platform with the C# language to build complex and challenging applications. I worked many years with MVC, Web Api, Xamarin, WPF and now my focus is to provide robust solutions in Microsoft cloud computing.
+Over these 14 years I specialized in the .NET platform with the C# language to build complex and challenging applications. I worked many years with MVC, Web Api, Xamarin, WPF and now my focus is to provide robust solutions in Microsoft cloud computing.
 
 ## 🌟 Certifications
 
